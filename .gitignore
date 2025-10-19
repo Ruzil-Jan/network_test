@@ -7,3 +7,5 @@ build/
 *.so
 *.a
 *.txt
+#Added new filter
+*.Zone.Identifier
