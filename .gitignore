@@ -9,3 +9,5 @@ build/
 *.txt
 #Added new filter
 *.Zone.Identifier
+#Added new filter for ZoneIden
+*:Zone.Identifier
