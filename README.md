@@ -29,14 +29,7 @@
 ```bash
 git clone git@github.com:Ruzil-Jan/network_test.git
 cd network_test
-
-// Сборка проекта
-
 mkdir build
 cd build
 cmake ..
-cmake --build .
-
-
-### 
----
+cmake --build . ```
