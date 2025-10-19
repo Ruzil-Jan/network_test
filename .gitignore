@@ -1,0 +1,9 @@
+#filters against all kinds of trash
+obj/
+build/
+
+#filters
+*.exe
+*.so
+*.a
+*.txt
