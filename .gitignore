@@ -6,7 +6,7 @@ build/
 *.exe
 *.so
 *.a
-*.txt
+
 #Added new filter
 *.Zone.Identifier
 #Added new filter for ZoneIden
