@@ -2,12 +2,32 @@
 obj/
 build/
 
-#filters
+# filters 
 *.exe
 *.so
 *.a
+*.o
+*.log
 
 #Added new filter
 *.Zone.Identifier
 #Added new filter for ZoneIden
 *:Zone.Identifier
+
+#Ignore all trash files
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+#add ignore rules for bak-files
+*.bak
+
+#Ignore deb-files
+*.deb
+
+/build-*/
+/build-ci/
+pkgroot/
+
