@@ -1,7 +1,6 @@
 # Network Test
-Оригинал: https://github.com/Ruzil-Jan/network_test.git
 ---
-
+CI/CD
 Зависимости:
 
 Для сборки и работы проекта требуются следующие инструменты:
